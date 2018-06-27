@@ -3,10 +3,10 @@ Practice of TensorFlow eager mode
 
 # Dependency
 
-Anaconda3==4.4.0
-TensorFlow==1.9.0rc1
-numpy==1.14.5
-matplotlib==2.1.2
+Anaconda3==4.4.0  
+TensorFlow==1.9.0rc1  
+numpy==1.14.5  
+matplotlib==2.1.2  
 
 # Google Colab file
 https://colab.research.google.com/drive/1VMv0BGIpH9F3Cla6SD6-tI1dP469l_vA
